@@ -39,6 +39,6 @@ const logEntrySchema = new Schema({
   timestamps: true,
 });
 
-const logEntry = mongoose.model('LogEntry', logEntrySchema);
+const LogEntry = mongoose.model('LogEntry', logEntrySchema);
 
-module.exports = logEntry;
+module.exports = LogEntry;
