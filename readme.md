@@ -1,6 +1,6 @@
 # Travel-log app
 
-Full-stack application to store and list of places traveled.
+Full-stack travel journal application to store and list of places traveled.
 
 Back-end stack:
 - Express
@@ -15,7 +15,7 @@ Back-end stack:
   * [x] Install / Setup Linter
   * [x] Setup Express App
   * [x] Setup Not Found and Error Middlewares
-* [] Model DB
+* [X] Model DB
   * What data will we store?
 * [] Setup Mongoose Model(s)
 * [] POST /logs
