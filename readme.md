@@ -10,7 +10,7 @@ Back-end stack:
 
 
 ## Task list
-* [ ] Setup Server
+* [] Setup Server
   * [x] Install Dependencies
   * [x] Install / Setup Linter
   * [x] Setup Express App
