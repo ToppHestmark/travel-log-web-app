@@ -36,5 +36,6 @@ app.use(middlewares.errorHandler);
 
 const port = process.env.PORT || 1337;
 app.listen(port, () => {
-  console.log(`Listening at http://${port}`);
+  // eslint-disable-next-line no-console
+  console.log(`Listening at http://localhost:${port}`);
 });
